@@ -2,7 +2,7 @@
 
 Scraper de dados de partidas ranqueadas de League of Legends e preditor de vitória em tempo real usando Machine Learning.
 
-Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) na COPPE/UFRJ.
+Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) no IM/UFRJ.
 
 ## Visão Geral
 
