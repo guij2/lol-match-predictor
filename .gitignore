@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment / secrets
+.env
+api_key.txt
+
+# Data files (too large for git)
+*.csv
+Data/
+
+# Build artifacts
+overlay/native/build/
+overlay/native-dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
